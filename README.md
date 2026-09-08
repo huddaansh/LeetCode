@@ -10,5 +10,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/huddaansh/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1907-count-salary-categories](https://github.com/huddaansh/LeetCode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
