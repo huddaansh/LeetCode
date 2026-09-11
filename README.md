@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/huddaansh/LeetCode/tree/master/1341-movie-rating) |
 | [1907-count-salary-categories](https://github.com/huddaansh/LeetCode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/huddaansh/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
 <!---LeetCode Topics End-->
