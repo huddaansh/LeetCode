@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/huddaansh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/huddaansh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/huddaansh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
