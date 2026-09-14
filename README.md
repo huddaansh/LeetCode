@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/huddaansh/LeetCode/tree/master/0626-exchange-seats) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/huddaansh/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1341-movie-rating](https://github.com/huddaansh/LeetCode/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/huddaansh/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/huddaansh/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/huddaansh/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1907-count-salary-categories](https://github.com/huddaansh/LeetCode/tree/master/1907-count-salary-categories) |
