@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Tree
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/huddaansh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
