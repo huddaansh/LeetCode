@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/huddaansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Tree
 |  |
