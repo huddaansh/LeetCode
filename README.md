@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/huddaansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3870-count-commas-in-range](https://github.com/huddaansh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/huddaansh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/huddaansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
