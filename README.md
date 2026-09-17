@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/huddaansh/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/huddaansh/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/huddaansh/LeetCode/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/huddaansh/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/huddaansh/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/huddaansh/LeetCode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/huddaansh/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
