@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/huddaansh/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/huddaansh/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/huddaansh/LeetCode/tree/master/0595-big-countries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/huddaansh/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/huddaansh/LeetCode/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/huddaansh/LeetCode/tree/master/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/huddaansh/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
