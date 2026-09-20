@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/huddaansh/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/huddaansh/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/huddaansh/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/huddaansh/LeetCode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/huddaansh/LeetCode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/huddaansh/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/huddaansh/LeetCode/tree/master/0626-exchange-seats) |
