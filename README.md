@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/huddaansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/huddaansh/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/huddaansh/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/huddaansh/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
