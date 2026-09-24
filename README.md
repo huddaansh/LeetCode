@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/huddaansh/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/huddaansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3870-count-commas-in-range](https://github.com/huddaansh/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/huddaansh/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/huddaansh/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 ## Interactive
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/huddaansh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/huddaansh/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
