@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huddaansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/huddaansh/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/huddaansh/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/huddaansh/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
