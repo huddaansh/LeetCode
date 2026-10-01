@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/huddaansh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huddaansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/huddaansh/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/huddaansh/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/huddaansh/LeetCode/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/huddaansh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
