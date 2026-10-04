@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/huddaansh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/huddaansh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huddaansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/huddaansh/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/huddaansh/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/huddaansh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/huddaansh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
