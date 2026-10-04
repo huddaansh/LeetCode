@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huddaansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/huddaansh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/huddaansh/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Tree
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/huddaansh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
