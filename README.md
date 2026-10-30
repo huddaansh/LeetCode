@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/huddaansh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/huddaansh/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/huddaansh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/huddaansh/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/huddaansh/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
