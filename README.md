@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/huddaansh/LeetCode/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/huddaansh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0445-add-two-numbers-ii](https://github.com/huddaansh/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/huddaansh/LeetCode/tree/master/0445-add-two-numbers-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/huddaansh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
