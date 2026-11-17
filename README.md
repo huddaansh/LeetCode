@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huddaansh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/huddaansh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/huddaansh/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/huddaansh/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3452-sum-of-good-numbers](https://github.com/huddaansh/LeetCode/tree/master/3452-sum-of-good-numbers) |
 ## Tree
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/huddaansh/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/huddaansh/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,8 +176,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/huddaansh/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/huddaansh/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
