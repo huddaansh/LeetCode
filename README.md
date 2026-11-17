@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/huddaansh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/huddaansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/huddaansh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/huddaansh/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -155,9 +156,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/huddaansh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/huddaansh/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/huddaansh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/huddaansh/LeetCode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/huddaansh/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/huddaansh/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
