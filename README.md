@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/huddaansh/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/huddaansh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/huddaansh/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/huddaansh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/huddaansh/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/huddaansh/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -170,5 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/huddaansh/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
