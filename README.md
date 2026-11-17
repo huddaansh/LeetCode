@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/huddaansh/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/huddaansh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/huddaansh/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/huddaansh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/huddaansh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/huddaansh/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -158,8 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/huddaansh/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/huddaansh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/huddaansh/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
